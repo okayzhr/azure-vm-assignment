@@ -30,7 +30,7 @@ A virtual machine with Windows Server 2022 Datacenter was deployed:
 - **Public IP Address** assigned for RDP access
 
 ### 💾 Attaching an Additional Data Disk
-A **10 GB data disk** was added to the virtual machine to extend storage capacity.
+A **128 GB data disk** was added to the virtual machine to extend storage capacity.
 
 ### 🔌 Connecting via RDP
 - Remote Desktop Protocol (RDP) was used to connect to the virtual machine via its **public IP address**.
